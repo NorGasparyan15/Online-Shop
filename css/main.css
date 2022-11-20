@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body{
+	padding: 70px;
+}
+
+.main_div{
+
+
+	display: flex;
+	flex-wrap: wrap;
+}
+
+img{
+	width: 300px;	
+}
+
+h3{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+
+}
+
+h5{
+	text-align: center;
+	font-size: 20px;
+	
+}
+
